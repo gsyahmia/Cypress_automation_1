@@ -1,0 +1,22 @@
+{
+  "name": "cypress_automation_1",
+  "version": "1.0.0",
+  "description": "Cypress automation 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gsyahmia/Cypress_automation_1.git"
+  },
+  "author": "syahmia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gsyahmia/Cypress_automation_1/issues"
+  },
+  "homepage": "https://github.com/gsyahmia/Cypress_automation_1#readme",
+  "devDependencies": {
+    "cypress": "^13.17.0"
+  }
+}
